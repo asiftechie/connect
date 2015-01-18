@@ -8,7 +8,7 @@ Technology used - [Node.js](http://nodejs.org/)  app  [Express 4](http://express
 
 
 ```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
+$ git clone https://github.com/asiftechie/connect.git # or clone your own fork
 $ cd node-js-getting-started
 $ npm install
 $ npm start
