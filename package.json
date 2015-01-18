@@ -1,0 +1,25 @@
+{
+  "name": "wemoconnect",
+  "version": "0.0.1",
+  "description": "A barebones Node.js app using Express 4 - let's get this started",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asiftechie/connect"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}

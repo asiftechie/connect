@@ -1,0 +1,7 @@
+{
+  "name": "Node.js WeMoConnect ",
+  "description": "A barebones Node.js app using Express 4 - let's get this started",
+  "repository": "https://github.com/asiftechie/connect",
+  "logo": "http://wemoconnect.com/wp-content/uploads/2015/01/logo.jpg",
+  "keywords": ["node", "express", "static", "WeMoConnect"]
+}
