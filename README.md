@@ -9,7 +9,7 @@ Technology used - [Node.js](http://nodejs.org/)  app  [Express 4](http://express
 
 ```sh
 $ git clone https://github.com/asiftechie/connect.git # or clone your own fork
-$ cd node-js-getting-started
+$ cd connect
 $ npm install
 $ npm start
 ```
